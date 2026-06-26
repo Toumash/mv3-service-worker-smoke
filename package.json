@@ -18,6 +18,8 @@
   },
   "devDependencies": {
     "@crxjs/vite-plugin": "^2.4.0",
+    "@emnapi/core": "1.11.1",
+    "@emnapi/runtime": "1.11.1",
     "@playwright/test": "^1.61.1",
     "@types/chrome": "^0.1.37",
     "@types/react": "^19.2.14",
