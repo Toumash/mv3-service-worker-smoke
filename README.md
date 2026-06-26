@@ -74,7 +74,7 @@ xvfb-run --auto-servernum npm run test:service-worker
 
 ## Try the failure
 
-Add this line at the top of `src/background/service-worker.js`:
+Uncomment the failure line at the top of `src/background/service-worker.js`:
 
 ```js
 const title = document.title

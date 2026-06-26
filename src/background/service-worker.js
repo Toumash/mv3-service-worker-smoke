@@ -1,3 +1,6 @@
+// Uncomment this line to simulate a broken MV3 service worker.
+// const title = document.title
+
 globalThis.__MV3_SERVICE_WORKER_SMOKE_READY = true
 globalThis.__MV3_SERVICE_WORKER_SMOKE_SCRIPT_URL = import.meta.url
 
